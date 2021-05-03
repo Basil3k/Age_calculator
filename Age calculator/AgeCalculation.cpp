@@ -5,7 +5,7 @@
 #include "WorkWithDB.h"
 #include <stack>
 
-void FindChosenFriend(size_t num_of_friend, myFrends  *my_friend, myFrends *friend_to_find)
+void FindChosenFriend(size_t num_of_friend, myFrends  *my_friend, myFrends *friend_to_find) #test commenting
 {
    Date date;
    GetCurrentDate(&date);
